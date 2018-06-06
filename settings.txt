@@ -1,0 +1,2 @@
+APIKey instead of this line
+SHOP Name instead of this line
